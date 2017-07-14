@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative 'calculator'
+require_relative 'calculator/calculator'
 
 class TC_MyTest < Test::Unit::TestCase
 
